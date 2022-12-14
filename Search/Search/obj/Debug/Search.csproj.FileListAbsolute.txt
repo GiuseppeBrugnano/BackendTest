@@ -1,0 +1,14 @@
+W:\BSI_21-23\Studente\ICTS21-23.188\C#\esercitazioni\Search\Search\bin\Debug\Search.exe.config
+W:\BSI_21-23\Studente\ICTS21-23.188\C#\esercitazioni\Search\Search\bin\Debug\Search.exe
+W:\BSI_21-23\Studente\ICTS21-23.188\C#\esercitazioni\Search\Search\bin\Debug\Search.pdb
+W:\BSI_21-23\Studente\ICTS21-23.188\C#\esercitazioni\Search\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+W:\BSI_21-23\Studente\ICTS21-23.188\C#\esercitazioni\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+W:\BSI_21-23\Studente\ICTS21-23.188\C#\esercitazioni\Search\Search\obj\Debug\Search.exe
+W:\BSI_21-23\Studente\ICTS21-23.188\C#\esercitazioni\Search\Search\obj\Debug\Search.pdb
+W:\BSI_21-23\Studente\ICTS21-23.188\Orientamento\CoolShopTestBackendBrugnano\Search\Search\bin\Debug\Search.exe.config
+W:\BSI_21-23\Studente\ICTS21-23.188\Orientamento\CoolShopTestBackendBrugnano\Search\Search\bin\Debug\Search.exe
+W:\BSI_21-23\Studente\ICTS21-23.188\Orientamento\CoolShopTestBackendBrugnano\Search\Search\bin\Debug\Search.pdb
+W:\BSI_21-23\Studente\ICTS21-23.188\Orientamento\CoolShopTestBackendBrugnano\Search\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+W:\BSI_21-23\Studente\ICTS21-23.188\Orientamento\CoolShopTestBackendBrugnano\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+W:\BSI_21-23\Studente\ICTS21-23.188\Orientamento\CoolShopTestBackendBrugnano\Search\Search\obj\Debug\Search.exe
+W:\BSI_21-23\Studente\ICTS21-23.188\Orientamento\CoolShopTestBackendBrugnano\Search\Search\obj\Debug\Search.pdb
